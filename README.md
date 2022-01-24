@@ -14,6 +14,7 @@ You should expect something like the following:
 ```
 ************************************
     A: This program is done
+    https://github.com/Kavitha-priya/qa-interview/tree/main/src/main/java/codingtest
 ************************************
 
 Q2: 
@@ -22,6 +23,7 @@ eg. Printing out the 7th number will print out 13.
 
 ************************************
     A: This program is done
+    https://github.com/Kavitha-priya/qa-interview/tree/main/src/main/java/codingtest
 ************************************
 
 Q3: Write a program that checks to see if every number between 1 and 1000 is both larger than 10 and a palindrome (i.e. "Radar") and outputs the numbers that are.
@@ -91,6 +93,7 @@ Find out the endpoint from the UI. Familiarise yourself with the endpoint using 
 
 ************************************
     A: This program is done
+    https://github.com/Kavitha-priya/qa-interview/tree/main/src/test/java/APITest
     What other things might you be concerned with testing for this API?
         I would consider performance testing for APIs to ensure whether it's working within NFRs.
     
