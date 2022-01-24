@@ -40,6 +40,10 @@ Inside `src/main/java/taxcalc`, there is a working tax calculator.
 - Refactor the tax calculator to work with best practice whilst still passing the tests specified in the `src/test` folder.
 - Suggest any further tests we might want to add to increase our confidence in the calculator. Are there any other areas you would want to focus on to ensure this code remains relevant?
 
+************************************
+    A: Not attempted
+************************************
+
 ### <ins>JavaScript</ins>
 
 
