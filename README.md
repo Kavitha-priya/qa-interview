@@ -98,6 +98,8 @@ Find out the endpoint from the UI. Familiarise yourself with the endpoint using 
 ************************************
     A: This program is done
     https://github.com/Kavitha-priya/qa-interview/tree/main/src/test/java/APITest
+    Frameworks: Rest Assured with Cucumber
+    
     What other things might you be concerned with testing for this API?
         I would consider performance testing for APIs to ensure whether it's working within NFRs.
     
